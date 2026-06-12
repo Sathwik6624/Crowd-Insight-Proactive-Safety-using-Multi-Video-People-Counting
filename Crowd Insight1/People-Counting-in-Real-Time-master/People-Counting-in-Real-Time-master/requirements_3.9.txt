@@ -1,0 +1,24 @@
+# Core
+#python==3.9
+
+# Core
+numpy>=1.21.0
+
+# Computer Vision
+opencv-python>=4.7.0
+imutils>=0.5.4
+
+# YOLOv8 (latest)
+ultralytics
+
+# Deep Learning
+torch
+torchvision
+
+# Visualization
+matplotlib>=3.5.0
+
+# Utility
+tqdm
+
+playsound==1.2.2
